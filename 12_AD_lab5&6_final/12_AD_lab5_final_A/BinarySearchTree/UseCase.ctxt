@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UseCase
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=double\ calculateAverage(int[])
+comment3.params=array
+comment3.target=double\ calculateStandardDeviation(int[])
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BST
+comment1.params=key
+comment1.target=int\ getNodeDepth(java.lang.Comparable)
+comment10.params=x
+comment10.target=int\ treeDepth(BST.Node)
+comment2.params=x\ key
+comment2.target=int\ getNodeDepth(BST.Node,\ java.lang.Comparable)
+comment3.params=key\ val
+comment3.target=void\ put(java.lang.Comparable,\ java.lang.Object)
+comment4.params=x\ key\ val\ depth
+comment4.target=BST.Node\ put(BST.Node,\ java.lang.Comparable,\ java.lang.Object,\ int)
+comment5.params=key
+comment5.target=java.lang.Object\ get(java.lang.Comparable)
+comment6.params=
+comment6.target=java.util.Iterator\ iterator()
+comment7.params=
+comment7.target=java.util.TreeMap\ depthHistogram()
+comment8.params=x\ histogram
+comment8.target=void\ getNodeDepthHistogram(BST.Node,\ java.util.TreeMap)
+comment9.params=
+comment9.target=int\ treeDepth()
+numComments=11
